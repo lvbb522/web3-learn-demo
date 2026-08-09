@@ -1,0 +1,1 @@
+{"client_ip":"::1","error":"","latency":5407500,"level":"info","method":"GET","msg":"HTTP Request","path":"/api/user/profile","status_code":200,"time":"2026-08-09T19:16:34+08:00","timestamp":"2026-08-09T19:16:34+08:00","user_agent":"PostmanRuntime/7.28.0"}
