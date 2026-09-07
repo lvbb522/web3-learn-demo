@@ -30,3 +30,14 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+
+**/.agents/
+**/.claude/
+
+**/artifacts/
+**/cache/
+**/node_modules/
+**/coverage/
+
+**/ignition/deployments/
